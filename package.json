@@ -63,7 +63,7 @@
     "vue-json-pretty": "^2.0.4",
     "vue-router": "^4.0.11",
     "vue-types": "^4.1.0",
-    "xlsx": "^0.17.1"
+    "xlsx": "^0.17.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
