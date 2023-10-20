@@ -10948,10 +10948,10 @@ tinycolor2@^1.4.2:
   resolved "https://registry.npmjs.org/tinycolor2/-/tinycolor2-1.4.2.tgz#3f6a4d1071ad07676d7fa472e1fac40a719d8803"
   integrity sha512-vJhccZPs965sV/L2sU4oRQVAos0pQXwsvTLkWYdqJ+a8Q5kPFzJTuOFwy7UniPli44NKQGAglksjvOcpo95aZA==
 
-tinymce@^5.9.2:
-  version "5.9.2"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.9.2.tgz#c56a1d7800ac23026fbe6e0fcf444c0f157ccafe"
-  integrity sha512-/dHTsbxo0YwLvB5krRqiw/qHEm04/k6l0dvAQ3hO5oNw4e9QalKcUQCdr+g/b/FWcsUMP6scvKmm8MX50/j3Cg==
+tinymce@^5.10.8:
+  version "5.10.8"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.10.8.tgz#c85758fa3cca2cbb4b14dd037a0b315b6462c50e"
+  integrity sha512-iyoo3VGMAJhLMDdblAefKvYgBRk9kQi58GTwAmoieqsyggGsKZWlQl/YY6nTILFHUCA1FhYu0HdmM5YYjs17UQ==
 
 tmp@^0.0.33:
   version "0.0.33"
