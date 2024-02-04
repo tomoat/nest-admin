@@ -34,7 +34,7 @@
     "gen:icon": "esno ./build/generate/icon/index.ts"
   },
   "dependencies": {
-    "@iconify/iconify": "^2.0.4",
+    "@iconify/iconify": "^3.1.1",
     "@logicflow/core": "^0.6.16",
     "@logicflow/extension": "^0.6.16",
     "@vueuse/core": "^6.3.2",
